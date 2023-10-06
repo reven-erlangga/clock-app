@@ -1,0 +1,18 @@
+{
+  "cwd": "H:\\Study\\Personal Study\\2023\\14. Clock App",
+  "type": [
+    "web"
+  ],
+  "name": "Clock App",
+  "framework": "vue",
+  "template": "single-view",
+  "cssPreProcessor": false,
+  "bundler": "vite",
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkMode": false,
+    "iconFonts": true
+  },
+  "customBuild": false
+}
